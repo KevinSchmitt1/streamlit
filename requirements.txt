@@ -1,18 +1,9 @@
-pip == 26.0.1
-jupyter==1.1.1
-jupyterlab==4.0.1
-ipywidgets==8.0.6
-jupyterlab-dash==0.1.0a3
-seaborn==0.13.2
-python-dotenv==1.0.0
-psycopg2-binary==2.9.7
-SQLAlchemy==2.0.15
-missingno==0.5.2
+streamlit==1.54.0
+pandas==2.2.2
 numpy==1.26.4
-pandas==2.2.0
+scikit-learn==1.5.2
+joblib==1.5.3
 plotly==5.18.0
-geopy
-scikit-learn==1.7.1
-matplotlib==3.10.5
-streamlit
-watchdog
+python-dotenv==1.0.0
+matplotlib==3.8.4
+seaborn==0.13.2
